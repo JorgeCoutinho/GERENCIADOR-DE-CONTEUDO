@@ -26,7 +26,7 @@ export function Header() {
 
                 <div className={styles.content}>
 
-                    <div className={styles.contentLog}>
+                    <div className={styles.contentLogo}>
                         <Link href='/'>
                             MOTORS
                         </Link>
